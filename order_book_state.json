@@ -1,5 +1,5 @@
 {
-  "timestamp": 50171.093,
+  "timestamp": 98121.062,
   "order_books": {
     "BTC-USDT": {
       "symbol": "BTC-USDT",
@@ -26,6 +26,19 @@
           "stop_price": null,
           "order_id": "9e519182-b4d2-4a",
           "timestamp": 1760853914.775648,
+          "status": "open",
+          "filled_quantity": "0",
+          "remaining_quantity": "1.0"
+        },
+        {
+          "symbol": "BTC-USDT",
+          "order_type": "limit",
+          "side": "buy",
+          "quantity": "1.0",
+          "price": "49000.0",
+          "stop_price": null,
+          "order_id": "c5af1c42-7bd9-40",
+          "timestamp": 1761981561.8341923,
           "status": "open",
           "filled_quantity": "0",
           "remaining_quantity": "1.0"
